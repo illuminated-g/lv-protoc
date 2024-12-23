@@ -10,5 +10,8 @@
 		<Item Name="Segment Type.ctl" Type="VI" URL="../Segment Type.ctl"/>
 		<Item Name="Syntax.ctl" Type="VI" URL="../Syntax.ctl"/>
 	</Item>
+	<Item Name="Templates" Type="Folder">
+		<Item Name="Template Library Path.vi" Type="VI" URL="../Template Library Path.vi"/>
+	</Item>
 	<Item Name="ProtoParser.lvclass" Type="LVClass" URL="../ProtoParser/ProtoParser.lvclass"/>
 </Library>

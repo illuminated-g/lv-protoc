@@ -10,6 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Templates" Type="Folder">
+			<Item Name="PB Msg Template.lvlib" Type="Library" URL="../PB Msg Template/PB Msg Template.lvlib"/>
+		</Item>
 		<Item Name="LV-Proto.lvlib" Type="Library" URL="../LV-Proto/LV-Proto.lvlib"/>
 		<Item Name="LV-Protoc.lvlib" Type="Library" URL="../LV-Protoc/LV-Protoc.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
