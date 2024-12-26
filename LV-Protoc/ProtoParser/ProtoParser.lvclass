@@ -148,6 +148,15 @@
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710291</Property>
 			</Item>
+			<Item Name="Sort Fields.vi" Type="VI" URL="../Sort Fields.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!-O!!!!%Q!%!!!!$E!Q`````Q2/97VF!!!.1!=!"EZV&lt;7*F=A!!$E!B#%^Q&gt;'FP&lt;G&amp;M!!!/1#%)5G6Q:7&amp;U:71!!,E!]1!!!!!!!!!#$ER7,6"S&lt;X2P,GRW&lt;'FC$F"S&lt;X2P)&amp;2Z='5O9X2M!*.!&amp;A!4"V6/3UZ06UY':'^V9GRF"7:M&lt;W&amp;U"7FO&gt;$-S"7FO&gt;$9U"H6J&lt;H1T-A:V;7ZU.D1'=WFO&gt;$-S"H.J&lt;H1W.!&gt;G;8BF:$-S"W:J?'6E.D1)=W:J?'6E-T))=W:J?'6E.D1%9G^P&lt;!:T&gt;(*J&lt;G=&amp;9HFU:8-%:7ZV&lt;1.N98!(&lt;76T=W&amp;H:1!%6(FQ:1!!%%!Q`````Q&gt;4&gt;7*U?8"F!$1!]1!!!!!!!!!#$ER7,6"S&lt;X2P,GRW&lt;'FC#&amp;2Z='5O9X2M!"2!5!!#!!5!"A25?8"F!!!Y!0%!!!!!!!!!!AZ-6CV1=G^U&lt;SZM&gt;GRJ9AB5?8"F,G.U&lt;!!91&amp;!!!A!&amp;!!9)3W6Z)&amp;2Z='5!!$I!]1!!!!!!!!!#$ER7,6"S&lt;X2P,GRW&lt;'FC#&amp;2Z='5O9X2M!"J!5!!#!!5!"AJ797RV:3"5?8"F!!!`!0%!!!!!!!!!!AZ-6CV1=G^U&lt;SZM&gt;GRJ9AF';76M:#ZD&gt;'Q!(E"1!!=!!1!#!!-!"!!(!!A!#16';76M:!!51%!!!@````]!#A:';76M:(-!!!V!"Q!(4H6N:8*J9Q!?1%!!!@````]!$""3:8.F=H:F:#"/&gt;7VC:8*T!!!11$$`````"F.U=GFO:Q!!(%"!!!(`````!!Y/5G6T:8*W:71A4G&amp;N:8-!!$U!]1!!!!!!!!!#$ER7,6"S&lt;X2P,GRW&lt;'FC#UVF=X.B:W5O9X2M!"J!5!!%!!%!#Q!.!!](476T=W&amp;H:1""!0%!!!!!!!!!!AZ-6CV1=G^U&lt;SZM&gt;GRJ9AN.:8.T97&gt;F,G.U&lt;!!?1&amp;!!"!!"!!M!$1!0#EVF=X.B:W5A;7Y!!&amp;1!]!!-!!!!!!!1!!!!!!!!!!!!!!!!!!!!%1!!!Q!!?!!!!!!!!!!!!!!.#A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")!!!!!!!!!!!%!%A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			</Item>
 		</Item>
 		<Item Name="Parse Helpers" Type="Folder">
 			<Item Name="Consume Whitespace.vi" Type="VI" URL="../Consume Whitespace.vi">
