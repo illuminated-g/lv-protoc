@@ -14,6 +14,7 @@
 		<Item Name="Enum from Value Terminal.ctl" Type="VI" URL="../Enum from Value Terminal.ctl"/>
 		<Item Name="Enum Value Terminal.ctl" Type="VI" URL="../Enum Value Terminal.ctl"/>
 		<Item Name="Enumeration Paths.ctl" Type="VI" URL="../Enumeration Paths.ctl"/>
+		<Item Name="Flatten Terminal.ctl" Type="VI" URL="../Flatten Terminal.ctl"/>
 		<Item Name="Map Definition.ctl" Type="VI" URL="../Map Definition.ctl"/>
 		<Item Name="Map Typenames.ctl" Type="VI" URL="../Map Typenames.ctl"/>
 		<Item Name="Message Paths.ctl" Type="VI" URL="../Message Paths.ctl"/>
@@ -21,6 +22,7 @@
 		<Item Name="Reserved Type.ctl" Type="VI" URL="../Reserved Type.ctl"/>
 		<Item Name="Segment Type.ctl" Type="VI" URL="../Segment Type.ctl"/>
 		<Item Name="Syntax.ctl" Type="VI" URL="../Syntax.ctl"/>
+		<Item Name="Unflatten Terminal.ctl" Type="VI" URL="../Unflatten Terminal.ctl"/>
 	</Item>
 	<Item Name="Scripting" Type="Folder">
 		<Item Name="Controls" Type="Folder">
@@ -29,8 +31,8 @@
 			<Item Name="Create Bool Control.vi" Type="VI" URL="../Create Bool Control.vi"/>
 			<Item Name="Create Cluster Control.vi" Type="VI" URL="../Create Cluster Control.vi"/>
 			<Item Name="Create Digital Control.vi" Type="VI" URL="../Create Digital Control.vi"/>
-			<Item Name="Create Enum Typedef.vi" Type="VI" URL="../Create Enum Typedef.vi"/>
 			<Item Name="Create String Control.vi" Type="VI" URL="../Create String Control.vi"/>
+			<Item Name="Create Typedef.vi" Type="VI" URL="../Create Typedef.vi"/>
 		</Item>
 		<Item Name="All Library Descendants.vi" Type="VI" URL="../All Library Descendants.vi"/>
 		<Item Name="Copy Template Library.vi" Type="VI" URL="../Copy Template Library.vi"/>

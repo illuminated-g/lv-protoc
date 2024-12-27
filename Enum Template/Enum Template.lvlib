@@ -13,10 +13,11 @@
 	</Item>
 	<Item Name="Decoding" Type="Folder">
 		<Item Name="Decode enum.vi" Type="VI" URL="../Decode enum.vi"/>
+		<Item Name="Decode packed enum.vi" Type="VI" URL="../Decode packed enum.vi"/>
 	</Item>
 	<Item Name="Encoding" Type="Folder">
 		<Item Name="Encode enum.vi" Type="VI" URL="../Encode enum.vi"/>
-		<Item Name="Encode repeated enum.vi" Type="VI" URL="../Encode repeated enum.vi"/>
+		<Item Name="Encode packed enum.vi" Type="VI" URL="../Encode packed enum.vi"/>
 	</Item>
 	<Item Name="Enumeration.ctl" Type="VI" URL="../Enumeration.ctl"/>
 </Library>
