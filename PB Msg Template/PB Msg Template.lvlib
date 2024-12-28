@@ -11,6 +11,7 @@
 		<Item Name="Msg.lvclass" Type="LVClass" URL="../Class/Msg.lvclass"/>
 	</Item>
 	<Item Name="Data.ctl" Type="VI" URL="../Data.ctl"/>
+	<Item Name="Flatten repeated.vi" Type="VI" URL="../Flatten repeated.vi"/>
 	<Item Name="Flatten.vi" Type="VI" URL="../Flatten.vi"/>
 	<Item Name="MessageName.vi" Type="VI" URL="../MessageName.vi"/>
 	<Item Name="Unflatten.vi" Type="VI" URL="../Unflatten.vi"/>

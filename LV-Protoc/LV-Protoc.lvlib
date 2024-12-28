@@ -44,6 +44,7 @@
 		<Item Name="Template Enumeration Path.vi" Type="VI" URL="../Template Enumeration Path.vi"/>
 		<Item Name="Template Message Path.vi" Type="VI" URL="../Template Message Path.vi"/>
 	</Item>
+	<Item Name="Flatten repeated Terminal.ctl" Type="VI" URL="../Flatten repeated Terminal.ctl"/>
 	<Item Name="LV-Protoc.lvclass" Type="LVClass" URL="../LV-Protoc/LV-Protoc.lvclass"/>
 	<Item Name="ProtoParser.lvclass" Type="LVClass" URL="../ProtoParser/ProtoParser.lvclass"/>
 </Library>
