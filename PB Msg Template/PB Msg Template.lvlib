@@ -10,6 +10,9 @@
 	<Item Name="Class" Type="Folder">
 		<Item Name="Msg.lvclass" Type="LVClass" URL="../Class/Msg.lvclass"/>
 	</Item>
+	<Item Name="Support" Type="Folder">
+		<Item Name="Decode.vi" Type="VI" URL="../Decode.vi"/>
+	</Item>
 	<Item Name="Data.ctl" Type="VI" URL="../Data.ctl"/>
 	<Item Name="Flatten repeated.vi" Type="VI" URL="../Flatten repeated.vi"/>
 	<Item Name="Flatten.vi" Type="VI" URL="../Flatten.vi"/>

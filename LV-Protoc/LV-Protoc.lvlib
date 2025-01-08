@@ -14,6 +14,7 @@
 		<Item Name="Enum from Value Terminal.ctl" Type="VI" URL="../Enum from Value Terminal.ctl"/>
 		<Item Name="Enum Value Terminal.ctl" Type="VI" URL="../Enum Value Terminal.ctl"/>
 		<Item Name="Enumeration Paths.ctl" Type="VI" URL="../Enumeration Paths.ctl"/>
+		<Item Name="Extract Field Terminal.ctl" Type="VI" URL="../Extract Field Terminal.ctl"/>
 		<Item Name="Flatten Terminal.ctl" Type="VI" URL="../Flatten Terminal.ctl"/>
 		<Item Name="Map Definition.ctl" Type="VI" URL="../Map Definition.ctl"/>
 		<Item Name="Map Typenames.ctl" Type="VI" URL="../Map Typenames.ctl"/>
@@ -22,6 +23,8 @@
 		<Item Name="Reserved Type.ctl" Type="VI" URL="../Reserved Type.ctl"/>
 		<Item Name="Segment Type.ctl" Type="VI" URL="../Segment Type.ctl"/>
 		<Item Name="Syntax.ctl" Type="VI" URL="../Syntax.ctl"/>
+		<Item Name="Unflatten Refs.ctl" Type="VI" URL="../Unflatten Refs.ctl"/>
+		<Item Name="Unflatten Template Case.ctl" Type="VI" URL="../Unflatten Template Case.ctl"/>
 		<Item Name="Unflatten Terminal.ctl" Type="VI" URL="../Unflatten Terminal.ctl"/>
 	</Item>
 	<Item Name="Scripting" Type="Folder">
@@ -35,9 +38,12 @@
 			<Item Name="Create Typedef.vi" Type="VI" URL="../Create Typedef.vi"/>
 		</Item>
 		<Item Name="All Library Descendants.vi" Type="VI" URL="../All Library Descendants.vi"/>
+		<Item Name="Copy Template Cases.vi" Type="VI" URL="../Copy Template Cases.vi"/>
 		<Item Name="Copy Template Library.vi" Type="VI" URL="../Copy Template Library.vi"/>
 		<Item Name="Open LV-Proto Library.vi" Type="VI" URL="../Open LV-Proto Library.vi"/>
 		<Item Name="Open Typedef.vi" Type="VI" URL="../Open Typedef.vi"/>
+		<Item Name="Open VI and BD.vi" Type="VI" URL="../Open VI and BD.vi"/>
+		<Item Name="Other Connected Terminal.vi" Type="VI" URL="../Other Connected Terminal.vi"/>
 		<Item Name="Rename Library.vi" Type="VI" URL="../Rename Library.vi"/>
 	</Item>
 	<Item Name="Templates" Type="Folder">
