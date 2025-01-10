@@ -26,15 +26,8 @@
 	<Item Name="ProtoParser.ctl" Type="Class Private Data" URL="ProtoParser.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="_Callbacks" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-	</Item>
-	<Item Name="Community" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">4</Property>
-	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Data Types" Type="Folder"/>
 		<Item Name="Enumerations" Type="Folder">
 			<Item Name="Build Enumerations.vi" Type="VI" URL="../Build Enumerations.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!8P!!!!*A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!Q`````Q2/97VF!!!.1!=!"EZV&lt;7*F=A!!$E!B#%^Q&gt;'FP&lt;G&amp;M!!!/1#%)5G6Q:7&amp;U:71!!,E!]1!!!!!!!!!#$ER7,6"S&lt;X2P,GRW&lt;'FC$F"S&lt;X2P)&amp;2Z='5O9X2M!*.!&amp;A!4"V6/3UZ06UY':'^V9GRF"7:M&lt;W&amp;U"7FO&gt;$-S"7FO&gt;$9U"H6J&lt;H1T-A:V;7ZU.D1'=WFO&gt;$-S"H.J&lt;H1W.!&gt;G;8BF:$-S"W:J?'6E.D1)=W:J?'6E-T))=W:J?'6E.D1%9G^P&lt;!:T&gt;(*J&lt;G=&amp;9HFU:8-%:7ZV&lt;1.N98!(&lt;76T=W&amp;H:1!%6(FQ:1!!%%!Q`````Q&gt;4&gt;7*U?8"F!$1!]1!!!!!!!!!#$ER7,6"S&lt;X2P,GRW&lt;'FC#&amp;2Z='5O9X2M!"2!5!!#!!A!#125?8"F!!!Y!0%!!!!!!!!!!AZ-6CV1=G^U&lt;SZM&gt;GRJ9AB5?8"F,G.U&lt;!!91&amp;!!!A!)!!E)3W6Z)&amp;2Z='5!!$I!]1!!!!!!!!!#$ER7,6"S&lt;X2P,GRW&lt;'FC#&amp;2Z='5O9X2M!"J!5!!#!!A!#1J797RV:3"5?8"F!!!`!0%!!!!!!!!!!AZ-6CV1=G^U&lt;SZM&gt;GRJ9AF';76M:#ZD&gt;'Q!(E"1!!=!"!!&amp;!!9!"Q!+!!M!$!6';76M:!!51%!!!@````]!$1:';76M:(-!!!V!"Q!(4H6N:8*J9Q!?1%!!!@````]!$R"3:8.F=H:F:#"/&gt;7VC:8*T!!!11$$`````"F.U=GFO:Q!!(%"!!!(`````!"%/5G6T:8*W:71A4G&amp;N:8-!!$U!]1!!!!!!!!!#$ER7,6"S&lt;X2P,GRW&lt;'FC#UVF=X.B:W5O9X2M!"J!5!!%!!1!$A!1!")(476T=W&amp;H:1!51(1!!A!%!"-)476T=W&amp;H:8-!!+)!]1!!!!!!!!!#$UR7,6"S&lt;X2P9SZM&gt;GRJ9B"4:7&gt;N:7ZU)&amp;2Z='5O9X2M!(F!&amp;A!,"U.P&lt;7VF&lt;H1-476T=W&amp;H:3"0='6O#56O&gt;7UA4X"F&lt;AV.:8.T97&gt;F)%.M&lt;X.F#E6O&gt;7UA1WRP=W5&amp;2GFF&lt;'1'5XFO&gt;'&amp;Y"EFN='^S&gt;!J&amp;&lt;H6N)&amp;:B&lt;(6F"V"B9WNB:W5)5G6T:8*W:71!"&amp;2Z='5!!!Z!-0````]%6'6Y&gt;!!!0A$R!!!!!!!!!!)04&amp;9N5(*P&gt;'^D,GRW&lt;'FC$V*B&gt;S"4:7&gt;N:7ZU,G.U&lt;!!71&amp;!!!A!6!"9(5W6H&lt;76O&gt;!!71%!!!@````]!&amp;QB4:7&gt;N:7ZU=Q!!0E"Q!"Y!!#504&amp;9N5(*P&gt;'^D,GRW&lt;'FC%V"S&lt;X2P5'&amp;S=W6S,GRW9WRB=X-!$V"S&lt;X2P5'&amp;S=W6S)'^V&gt;!!%!!!!#U!$!!6797RV:1"!!0%!!!!!!!!!!AZ-6CV1=G^U&lt;SZM&gt;GRJ9AZ&amp;&lt;H6N)&amp;:B&lt;(6F,G.U&lt;!!;1&amp;!!!A!%!"M+27ZV&lt;3"797RV:1!!&amp;%"!!!(`````!"Q'6G&amp;M&gt;76T!!"&amp;!0%!!!!!!!!!!AZ-6CV1=G^U&lt;SZM&gt;GRJ9A^&amp;&lt;H6N:8*B&gt;'FP&lt;CZD&gt;'Q!(E"1!!1!"!!&gt;!"!!%AN&amp;&lt;H6N:8*B&gt;'FP&lt;A!91(1!!A!%!"Y-27ZV&lt;76S982J&lt;WZT!!!;1(1!!A!%!"Y027ZV&lt;76S982J&lt;WZT)'FO!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;E"U!!)!"!!4#UVF=X.B:W6T)'FO!"B!1!!"`````Q!8#V.F:WVF&lt;H2T)'FO!$Z!=!!?!!!F$UR7,6"S&lt;X2P9SZM&gt;GRJ9B.1=G^U&lt;V"B=H.F=CZM&gt;G.M98.T!!Z1=G^U&lt;V"B=H.F=C"J&lt;A!!91$Q!!Q!!Q!5!"A!'1!;!"]!'A!A!#%!)A!D!#1$!!"Y!!!.#!!!$1E!!!U+!!!.#Q!!!!!!!!U(!!!!!!!!#A!!!!I!!!!)!!!"#A!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!*1!!!!!</Property>
@@ -282,13 +275,8 @@
 			</Item>
 		</Item>
 	</Item>
-	<Item Name="Properties" Type="Folder"/>
-	<Item Name="Protected" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
-	</Item>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Item Name="Data Types" Type="Folder"/>
 		<Item Name="Parse Proto File.vi" Type="VI" URL="../Parse Proto File.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!4;!!!!)A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!$E!Q`````Q2/97VF!!!.1!=!"EZV&lt;7*F=A!!$E!B#%^Q&gt;'FP&lt;G&amp;M!!!/1#%)5G6Q:7&amp;U:71!!,E!]1!!!!!!!!!#$ER7,6"S&lt;X2P,GRW&lt;'FC$F"S&lt;X2P)&amp;2Z='5O9X2M!*.!&amp;A!4"V6/3UZ06UY':'^V9GRF"7:M&lt;W&amp;U"7FO&gt;$-S"7FO&gt;$9U"H6J&lt;H1T-A:V;7ZU.D1'=WFO&gt;$-S"H.J&lt;H1W.!&gt;G;8BF:$-S"W:J?'6E.D1)=W:J?'6E-T))=W:J?'6E.D1%9G^P&lt;!:T&gt;(*J&lt;G=&amp;9HFU:8-%:7ZV&lt;1.N98!(&lt;76T=W&amp;H:1!%6(FQ:1!!%%!Q`````Q&gt;4&gt;7*U?8"F!$1!]1!!!!!!!!!#$ER7,6"S&lt;X2P,GRW&lt;'FC#&amp;2Z='5O9X2M!"2!5!!#!!A!#125?8"F!!!Y!0%!!!!!!!!!!AZ-6CV1=G^U&lt;SZM&gt;GRJ9AB5?8"F,G.U&lt;!!91&amp;!!!A!)!!E)3W6Z)&amp;2Z='5!!$I!]1!!!!!!!!!#$ER7,6"S&lt;X2P,GRW&lt;'FC#&amp;2Z='5O9X2M!"J!5!!#!!A!#1J797RV:3"5?8"F!!!`!0%!!!!!!!!!!AZ-6CV1=G^U&lt;SZM&gt;GRJ9AF';76M:#ZD&gt;'Q!(E"1!!=!"!!&amp;!!9!"Q!+!!M!$!6';76M:!!51%!!!@````]!$1:';76M:(-!!!V!"Q!(4H6N:8*J9Q!?1%!!!@````]!$R"3:8.F=H:F:#"/&gt;7VC:8*T!!!11$$`````"F.U=GFO:Q!!(%"!!!(`````!"%/5G6T:8*W:71A4G&amp;N:8-!!$U!]1!!!!!!!!!#$ER7,6"S&lt;X2P,GRW&lt;'FC#UVF=X.B:W5O9X2M!"J!5!!%!!1!$A!1!")(476T=W&amp;H:1!51(1!!A!%!"-)476T=W&amp;H:8-!!!N!!Q!&amp;6G&amp;M&gt;75!1!$R!!!!!!!!!!)/4&amp;9N5(*P&gt;']O&lt;(:M;7)/27ZV&lt;3"797RV:3ZD&gt;'Q!'E"1!!)!"!!6#E6O&gt;7UA6G&amp;M&gt;75!!"2!1!!"`````Q!7"F:B&lt;(6F=Q!!21$R!!!!!!!!!!)/4&amp;9N5(*P&gt;']O&lt;(:M;7)027ZV&lt;76S982J&lt;WYO9X2M!"Z!5!!%!!1!&amp;Q!1!"),27ZV&lt;76S982J&lt;WY!'%"U!!)!"!!9$%6O&gt;7VF=G&amp;U;7^O=Q!!0E"Q!"Y!!#504&amp;9N5(*P&gt;'^D,GRW&lt;'FC%V"S&lt;X2P5'&amp;S=W6S,GRW9WRB=X-!$V"S&lt;X2P5'&amp;S=W6S)'^V&gt;!!%!!!!$E!S`````Q21982I!!!C1%!!!@````]!("2*&lt;G.M&gt;72F)&amp;"B&gt;'BT)#B/&lt;WZF+1!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!51$,`````#SZQ=G^U&lt;S"1982I!$Z!=!!?!!!F$UR7,6"S&lt;X2P9SZM&gt;GRJ9B.1=G^U&lt;V"B=H.F=CZM&gt;G.M98.T!!Z1=G^U&lt;V"B=H.F=C"J&lt;A!!6!$Q!!Q!!Q!5!"E!'A!&lt;!"M!(1!&lt;!"Y!'Q!@!#!$!!"Y!!!.#!!!#1!!!!E!!!!.#Q!!!!!!!!!!!!!)!!!!!!!!!!I!!!!!!!!!%!!!!!I!!!!!!1!B!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
