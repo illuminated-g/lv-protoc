@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-01-09 11:28:53" Modified_Date="2025-02-03 21:26:31" Creator="derri" Comments="" ID="cf53172c5c0f9d8dea7aea4c789bdf61">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-01-09 11:28:53" Modified_Date="2025-03-24 16:25:41" Creator="derri" Comments="" ID="ad3f12cbd4ffefbde0adff86326b6f6c">
   <Library_General_Settings>
     <Package_File_Name>IlluminatedG_lib_IG_Protoc</Package_File_Name>
-    <Library_Version>0.5.3.19</Library_Version>
+    <Library_Version>0.5.4.20</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\vip</Library_Output_Folder>
@@ -38,6 +38,9 @@ IG Protoc is a package to provide Proto3 syntax parsing and native LabVIEW code 
       <Packager>Derrick Bommarito</Packager>
       <URL>https://github.com/illuminated-g/lv-protoc</URL>
       <Release_Notes>*** DEVELOPMENT PRE-RELEASE ***
+
+0.5.4.19
+- Fix encode/decode of repeated bytes &amp; strings
 
 0.5.3.18
 - Build package for 2020
