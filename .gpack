@@ -1,0 +1,10 @@
+{
+  "Info":{
+    "Name":"git:lv-protoc",
+    "Type":"git",
+    "Source":"git@github.com:illuminated-g/lv-protoc.git",
+    "Branch":"main",
+    "Version":"a4694b770c9429718fa60bd24a1827149028aca7"
+  },
+  "Dependencies":[]
+}
